@@ -23,9 +23,13 @@ Repository ini berisi dokumentasi tugas, file simulasi Cisco Packet Tracer, topo
 
 ---
 
-### Judul 2
-- **Status:** Persiapan
-- **Folder:** [Buka Folder Judul 2](./judul%202/)
+### Judul 2 Praktikum Jaringan Komputer - VLAN dan Crimping
+- **Folder:** [Buka Folder Judul 2](./judul%202/README.md)
+- **File Simulasi:** [`judul2pjk.pkt`](./judul%202/judul2pjk.pkt)
+- **Link Demo Youtube:** https://youtu.be/3sQ_u75AonM
+- **Topologi:**
+
+  ![Topologi Judul 2](./judul%202/Screenshot%202026-10-08%20201054.png)
 
 ---
 
